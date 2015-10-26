@@ -1,3 +1,6 @@
+[![Dependency Status](https://david-dm.org/atsid/statsd.svg)](https://david-dm.org/atsid/statsd)
+[![Dev Dependency Status](https://david-dm.org/atsid/statsd/dev-status.svg)](https://david-dm.org/atsid/statsd)
+
 StatsD [![Build Status][travis-ci_status_img]][travis-ci_statsd]
 ======
 
